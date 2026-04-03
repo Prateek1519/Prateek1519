@@ -72,9 +72,9 @@ The integration layer between Salesforce and backend systems is where I live. If
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prateek1519&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2E5FA3&icon_color=2E5FA3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prateek1519&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2E5FA3&icon_color=2E5FA3&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek1519&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=2E5FA3"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek1519&layout=pie&theme=github_dark&hide_border=true&title_color=2E5FA3&cache_seconds=1800"/>
 
 </div>
 
